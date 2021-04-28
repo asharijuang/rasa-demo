@@ -1,0 +1,9 @@
+version: "2.0"
+nlu:
+- intent: lokasi_3
+  examples: |
+    - [luar jawa](domisili)
+- intent: greet
+  examples: |
+    - hi
+    - hai
